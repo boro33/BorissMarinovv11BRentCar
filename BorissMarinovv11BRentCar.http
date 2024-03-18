@@ -1,0 +1,6 @@
+@BorissMarinovv11BRentCar_HostAddress = http://localhost:5041
+
+GET {{BorissMarinovv11BRentCar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
